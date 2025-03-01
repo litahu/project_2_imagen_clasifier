@@ -32,7 +32,7 @@ El modelo se basa en una red VGG16 preformada, seguida de un clasificador con 5 
 - El clasificador puede identificar 102 tipos de flores con una precisión del 83,5% (en conjuntos de datos de prueba).
 
 <p align="center">
-    <kbd> <img width="600" alt="jkhjk" src="https://github.com/litahu/project_2_imagen_clasifier/blob/main/assets/project_inference.JPG"> </kbd> <br>
+    <kbd> <img width="800" alt="jkhjk" src="https://github.com/litahu/project_2_imagen_clasifier/blob/main/assets/project_inference.JPG"> </kbd> <br>
     Image — Inferencia del proyecto
 </p>
 
