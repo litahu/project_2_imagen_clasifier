@@ -1,4 +1,4 @@
-# Clasificador de imagenes
+# Clasificador de imágenes florales
 
 ## 🏆 Descripción del proyecto
 Este proyecto capacita a un clasificador de imágenes para reconocer diferentes especies de flores utilizando pytorch.
@@ -31,9 +31,12 @@ El modelo se basa en una red VGG16 preformada, seguida de un clasificador con 5 
 - El modelo entrenado se guarda en el archivo 'checkpoint.pth'
 - El clasificador puede identificar 102 tipos de flores con una precisión del 83,5% (en conjuntos de datos de prueba).
 
+<p align="center">
+    <kbd> <img width="300" alt="jkhjk" src="https://github.com/litahu/project_2_imagen_clasifier/blob/main/assets/project_inference.JPG"> </kbd> <br>
+    Image — Inferencia del proyecto
+</p>
 
-
-
+- Desarrolle dos API de línea de comandos Python para la formación aplicativa del modelo predictivo
 
 
 ## 💖 Agradecimiento
