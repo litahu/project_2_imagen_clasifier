@@ -22,8 +22,8 @@ El modelo se basa en una red VGG16 preformada, seguida de un clasificador con 5 
 #### Parte 2: Creación de la aplicación de línea de comandos
 - `train.py` Es un Script que se encarga de entrenar una nueva red en un conjunto de datos y guarda el modelo como punto de control
 - `predict.py` Este archivo se encarga de utilizar una red entrenada para predecir la clase de una imagen de entrada
-- `model.py` Crea un archivo para funciones y clases relacionadas con el modelo(define, carga y guarda el modelo) 
-- `utils.py` Crea un archivo para funciones de utilidad(carga datos, preprocesa imágenes y contiene funciones auxiliares para entrenar y predecir)
+- `model_utils.py` Crea un archivo para funciones y clases relacionadas con el modelo(define, carga y guarda el modelo) 
+- `data_utils.py` Crea un archivo para funciones de utilidad(carga datos, preprocesa imágenes y contiene funciones auxiliares para entrenar y predecir)
 - `cat_to_name.json` Archivo que contiene los nombres de las categorías de las flores
 
 ## 👩‍🔧 Resultados
