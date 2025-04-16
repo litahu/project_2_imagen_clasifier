@@ -1,6 +1,10 @@
 # Clasificador de imágenes florales
 El programa Nanodegree de Udacity transformó mi aprendizaje en el fascinante mundo de la inteligencia artificial generativa, el procesamiento del lenguaje natural (PNL) y las técnicas de modelos transformadores. Durante este programa, desarrollé un clasificador de imágenes capaz de identificar diferentes especies de flores, abarcando un total de 102 tipos.
 
+✔ Realicé la carga y el preprocesamiento de los datos necesarios. Utilicé el modelo VGG16 como base para preentrenar el marco que serviría para construir mi propio modelo.
+✔ Entrené y evalué el desempeño del modelo, asegurándome de realizar pruebas exhaustivas, incluidas comprobaciones de cordura.
+✔ Alcancé una precisión del 83.5% en la visualización de las imágenes clasificadas.
+
 ## 🏆 Descripción del proyecto
 Este proyecto capacita a un clasificador de imágenes para reconocer diferentes especies de flores utilizando pytorch.
 
